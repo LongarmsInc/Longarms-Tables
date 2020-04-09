@@ -26,6 +26,7 @@ body {
 
 .active {
   background-color: #558fc9;
+  height: 100px;
 }
 
 .button {
